@@ -1,36 +1,35 @@
-# Bonjour, je suis Aya Ltifi 👋
+# Hi, I'm Aya Ltifi 👋
 
-**Élève ingénieure en Systèmes, Réseaux et Télécommunications (STRI)** à UPSSITECH, Université Toulouse III – Paul Sabatier.
-Je m'intéresse aux **réseaux**, à la **sécurité** et au **DevOps / cloud** : faire tourner des infrastructures fiables, les automatiser et les sécuriser.
+**Engineering student in Systems, Networks & Telecommunications**, based in Toulouse, France.
+I'm passionate about **networking**, **security** and **DevOps / cloud**: running reliable infrastructure, automating it and keeping it secure.
 
-🔎 **Je recherche un stage de 5 mois à partir d'avril 2027** (Toulouse, Paris) en réseaux, sécurité, DevOps ou infrastructure.
+🔎 **Looking for a 5-month internship starting April 2027** (Toulouse or Paris) in networking, security, DevOps or infrastructure.
 
 ---
 
-### 🏆 Dernière actualité
-**1ʳᵉ place au Hackathon IA La Mêlée 2026 (Toulouse)** sur le défi proposé par **Enedis** : un outil d'aide à la décision pour rétablir l'électricité plus vite lors des crises climatiques (recherche opérationnelle + LLM explicatif). Résultat : **-37,9 % d'heures de coupure** sur 100 crises simulées.
+### 🏆 Latest news
+**1st place at the La Mêlée 2026 AI Hackathon (Toulouse)** on the challenge set by **Enedis**, France's electricity distribution operator: a decision-support tool that helps restore power faster during climate crises (operations research engine + explainable LLM). Result: **-37.9% outage hours** across 100 simulated crises.
 
-### 🛠️ Compétences
-| Domaine | Outils et technologies |
+### 🛠️ Skills
+| Area | Tools & technologies |
 |---|---|
-| Réseaux | TCP/IP, IPv4/IPv6, VLAN, OSPF, RIP, DHCP, DNS, ACL, VPN, Wireshark, Packet Tracer |
-| Systèmes | Linux, Windows Server, VirtualBox, SSH, Apache |
-| DevOps | Docker, Git/GitHub, Scrum *(en cours : CI/CD, Kubernetes, AWS Cloud Practitioner)* |
-| Supervision | Centreon, GLPI |
-| Programmation | Python, Java, C, SQL, PHP, JavaScript |
+| Networking | TCP/IP, IPv4/IPv6, VLAN, OSPF, RIP, DHCP, DNS, ACL, VPN, Wireshark, Packet Tracer |
+| Systems | Linux, Windows Server, VirtualBox, SSH, Apache |
+| DevOps | Docker, Git/GitHub, Scrum *(currently learning: CI/CD, Kubernetes, AWS Cloud Practitioner)* |
+| Monitoring | Centreon, GLPI |
+| Programming | Python, Java, C, SQL, PHP, JavaScript |
 
-### 📂 Projets mis en avant
-| Projet | Description | Techno |
+### 📂 Featured projects
+| Project | Description | Stack |
 |---|---|---|
-| [Lab réseau multisite sécurisé](https://github.com/Ltifi-Aya/lab-reseau-multisite) | Deux sites reliés par VPN IPsec IKEv2 (GRE), VLAN, OSPF, DHCP, NAT, ACL et durcissement des équipements | Cisco IOS, GNS3 |
-| [NetCheck](https://github.com/Ltifi-Aya/netcheck-devops) | Service de supervision réseau conteneurisé (nginx + Flask + Redis), métriques Prometheus, pipeline CI/CD | Docker, GitHub Actions, Python |
-| [Simulateur de processeur 8 bits](https://github.com/Ltifi-Aya/simulateur-cpu-8bits) | CPU 8 bits avec assembleur intégré, mémoire 64 Ko, 16 registres, ALU et cycle Fetch/Decode/Execute, tests unitaires | Java, Maven, JUnit |
-| [Quiz interactif](https://github.com/Ltifi-Aya/Quiz-game-CodeClause) | Application de quiz en page Web avec score et rejouabilité | HTML, CSS, JavaScript |
+| [Secure multi-site network lab](https://github.com/Ltifi-Aya/secure-multisite-network-lab) | Two sites linked by an IKEv2 IPsec VPN (GRE), with VLANs, OSPF, DHCP, NAT, ACLs and device hardening | Cisco IOS, GNS3 |
+| [8-bit CPU simulator](https://github.com/Ltifi-Aya/Projet-simulateur-CPU-) | 8-bit CPU with built-in assembler, 64 KB memory, 16 registers, ALU and fetch/decode/execute cycle, unit tests (team project) | Java, Maven, JUnit |
+| [Interactive quiz](https://github.com/Ltifi-Aya/Quiz-game-CodeClause) | Web quiz app with scoring and replay | HTML, CSS, JavaScript |
 
 ### 📜 Certifications
 Scrum for Ops and DevOps Fundamentals · Machine Learning Specialization (Stanford / DeepLearning.AI) · Google Data Analytics · Machine Learning with Python (IBM)
 
-### 📫 Me contacter
+### 📫 Get in touch
 [LinkedIn](https://www.linkedin.com/in/ltifi-aya-b290762b5/) · ltifiaya@gmail.com
 
-🌍 Arabe (langue maternelle) · Français (bilingue) · Anglais (avancé) · Espagnol (intermédiaire)
+🌍 Arabic (native) · French (bilingual) · English (advanced) · Spanish (intermediate)
